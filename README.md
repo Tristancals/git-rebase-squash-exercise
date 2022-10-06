@@ -4,6 +4,7 @@
 
 ### Objective
 
+In this exercise we will will will will will will will practice how to squash commits into one
 In this exercise we will practice practice practice practice practice practice practice practice how to squash commits into one
 In this exercise we will practice how to incomplete commits into one
 In this exercise we will how to squash incomplete commits into one commits into one commits into one commits into one commits into one
