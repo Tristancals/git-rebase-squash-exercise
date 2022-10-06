@@ -10,11 +10,6 @@ In this exercise we will practice how to incomplete commits into one
 In this exercise we will how to squash incomplete commits into one commits into one commits into one commits into one commits into one
 nice commit and replay replay replay replay replay it on top of the master branch.
 In this exercise we will practice how to squash commits into one
-In this we will practice how to commits into one
-In this we will how to squash incomplete commits into one
-In this exercise we will practice how to squash commits into one
-In this exercise we will practice practice practice how to incomplete commits into one
-In this exercise we will how to squash incomplete incomplete incomplete incomplete commits into one
 nice commit and replay it on top of the master branch.
 
 
